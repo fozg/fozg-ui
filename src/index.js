@@ -1,22 +1,12 @@
-import React, { Component } from 'react'
-import PropTypes from 'prop-types'
+import Button from './components/Button'
+import ButtonGroup from './components/ButtonGroup'
+import Callout from './components/Callout'
+import {H1, H2} from './components/Heading'
 
-import styles from './styles.css'
-
-export default class ExampleComponent extends Component {
-  static propTypes = {
-    text: PropTypes.string
-  }
-
-  render() {
-    const {
-      text
-    } = this.props
-
-    return (
-      <div className={styles.test}>
-        Example Component: {text}
-      </div>
-    )
-  }
+export {
+  Button,
+  ButtonGroup,
+  Callout,
+  H1,
+  H2
 }

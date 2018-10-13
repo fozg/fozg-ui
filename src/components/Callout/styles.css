@@ -1,0 +1,19 @@
+.callout {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  border-left: 4px solid #607D8B;
+}
+
+.SMALL {
+  padding: 10px;
+}
+
+.NORMAL {
+  padding: 20px;
+}
+
+.LARGE {
+  padding: 40px;
+}
