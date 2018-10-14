@@ -1,8 +1,13 @@
 # fozg-ui
+[![NPM](https://img.shields.io/npm/v/fozg-ui.svg)](https://www.npmjs.com/package/fozg-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+
+![fozg-ui](https://fozg.github.io/fozg-ui/fozg-ui-logo.svg "fozg-ui")
+
+## [Documents](https://fozg.github.io/fozg-ui/) 
 
 > React UI kit used for Fozg.net
 
-[![NPM](https://img.shields.io/npm/v/fozg-ui.svg)](https://www.npmjs.com/package/fozg-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
@@ -15,12 +20,14 @@ npm install --save fozg-ui
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'fozg-ui'
+import {ButtonGroup} from 'fozg-ui'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <ButtonGroup>
+        ...
+      </ButtonGroup>
     )
   }
 }
