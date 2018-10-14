@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 235.655 150.544">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #413e91;
+        font-size: 67px;
+        font-family: SegoeUI-Semibold, Segoe UI;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        fill: #df4343;
+        font-size: 77px;
+        font-family: SegoePrint-Bold, Segoe Print;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #28b774;
+        font-size: 73px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-335 -410.164)">
+    <text id="fozg" class="cls-1" transform="translate(335 508)"><tspan x="0" y="0">fozg</tspan></text>
+    <g id="Group_2" data-name="Group 2" transform="translate(-48 7)">
+      <g id="Group_1" data-name="Group 1" transform="translate(-2 -3)">
+        <text id="ui" class="cls-2" transform="translate(540 521) rotate(-20)"><tspan x="0" y="0">ui</tspan></text>
+        <text id="_" data-name="]" class="cls-3" transform="translate(592 502)"><tspan x="0" y="0">]</tspan></text>
+        <text id="_2" data-name="[" class="cls-3" transform="translate(515 502)"><tspan x="0" y="0">[</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

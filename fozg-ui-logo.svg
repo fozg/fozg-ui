@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 612.996 265.97">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-13, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-11, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        opacity: 0.81;
+      }
+
+      .cls-8 {
+        opacity: 0.95;
+      }
+
+      .cls-10, .cls-9 {
+        font-size: 166px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        text-decoration: underline;
+      }
+
+      .cls-10 {
+        fill: #9477e6;
+      }
+
+      .cls-11 {
+        opacity: 0.45;
+      }
+
+      .cls-12 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.681" y1="-0.466" x2="-0.493" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e8af11"/>
+      <stop offset="1" stop-color="#745809"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bfbb48"/>
+      <stop offset="1" stop-color="#18b3f8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.925" y1="-0.211" x2="-0.124" y2="0.68" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f25959"/>
+      <stop offset="1" stop-color="#1270c2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.049" x2="1.125" y2="1.139" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e35c29"/>
+      <stop offset="1" stop-color="#29d9a9"/>
+    </linearGradient>
+  </defs>
+  <g id="Fozguilogo" transform="translate(-157.767 -364.5)">
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-1" transform="translate(429 440)">
+      <rect class="cls-12" width="272" height="11"/>
+      <rect class="cls-13" x="1" y="1" width="270" height="9"/>
+    </g>
+    <path id="Path_2" data-name="Path 2" class="cls-2" d="M84.872-134.989a33.823,33.823,0,0,0-12.4-2.543q-16.105,0-16.105,17.483V-108.5H81.163v24.688H56.369V0H22.993V-83.812H4.768V-108.5H22.993v-13.457q0-18.542,12.079-29.88t32.847-11.337a57.684,57.684,0,0,1,16.953,2.119Zm64.1,137.638q-27.125,0-42.648-15.2T90.805-53.826q0-26.913,16.105-42.118t43.548-15.2q27.019,0,42.383,15.2t15.364,40.211q0,27.019-15.841,42.7T148.976,2.649Zm.848-88.156q-11.867,0-18.437,8.159t-6.569,23.1q0,31.257,25.218,31.257,24.052,0,24.052-32.1Q174.087-85.507,149.823-85.507ZM315.858,0H218.483V-13.88l54.462-69.932H223.887V-108.5h91.547v16.529l-51.6,67.283h52.025ZM440.251-12.4q0,30.2-17.483,46.78T372.121,50.965q-21.933,0-34.754-6.251V16.529q16.741,9.748,33.8,9.748,16.953,0,26.277-8.953t9.324-24.317v-8.583h-.424Q394.9,2.649,372.545,2.649q-20.768,0-32.953-14.622t-12.185-39.2q0-27.549,13.563-43.76t35.708-16.211q19.814,0,29.668,15.258h.424V-108.5h33.482ZM407.193-52.131v-8.583A26.373,26.373,0,0,0,401.1-78.249a19.706,19.706,0,0,0-15.841-7.258q-11.125,0-17.483,8.688t-6.357,24.476q0,13.563,6.04,21.456t16.529,7.894a20.489,20.489,0,0,0,16.794-8Q407.193-38.992,407.193-52.131Z" transform="translate(154 571)"/>
+    <path id="Path_1" data-name="Path 1" class="cls-3" d="M84.872-134.989a33.823,33.823,0,0,0-12.4-2.543q-16.105,0-16.105,17.483V-108.5H81.163v24.688H56.369V0H22.993V-83.812H4.768V-108.5H22.993v-13.457q0-18.542,12.079-29.88t32.847-11.337a57.684,57.684,0,0,1,16.953,2.119Zm64.1,137.638q-27.125,0-42.648-15.2T90.805-53.826q0-26.913,16.105-42.118t43.548-15.2q27.019,0,42.383,15.2t15.364,40.211q0,27.019-15.841,42.7T148.976,2.649Zm.848-88.156q-11.867,0-18.437,8.159t-6.569,23.1q0,31.257,25.218,31.257,24.052,0,24.052-32.1Q174.087-85.507,149.823-85.507ZM315.858,0H218.483V-13.88l54.462-69.932H223.887V-108.5h91.547v16.529l-51.6,67.283h52.025ZM440.251-12.4q0,30.2-17.483,46.78T372.121,50.965q-21.933,0-34.754-6.251V16.529q16.741,9.748,33.8,9.748,16.953,0,26.277-8.953t9.324-24.317v-8.583h-.424Q394.9,2.649,372.545,2.649q-20.768,0-32.953-14.622t-12.185-39.2q0-27.549,13.563-43.76t35.708-16.211q19.814,0,29.668,15.258h.424V-108.5h33.482ZM407.193-52.131v-8.583A26.373,26.373,0,0,0,401.1-78.249a19.706,19.706,0,0,0-15.841-7.258q-11.125,0-17.483,8.688t-6.357,24.476q0,13.563,6.04,21.456t16.529,7.894a20.489,20.489,0,0,0,16.794-8Q407.193-38.992,407.193-52.131Z" transform="translate(163.38 578.504)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-4" x2="9.38" y2="7.504" transform="translate(177.451 462.635)"/>
+    <line id="Line_5" data-name="Line 5" class="cls-4" x2="9.38" y2="7.504" transform="translate(235.609 462.635)"/>
+    <path id="Path_5" data-name="Path 5" class="cls-4" d="M9,7" transform="translate(372.5 571.5)"/>
+    <line id="Line_11" data-name="Line 11" class="cls-4" x2="10" y2="7" transform="translate(469.5 546.5)"/>
+    <path id="Path_6" data-name="Path 6" class="cls-5" d="M372.385,557.466l1.934.373,42.608,8.223v14.817l-44.542-8.6Z" transform="translate(-13.037 9.404)"/>
+    <path id="Path_7" data-name="Path 7" class="cls-6" d="M377.954,462.635l9.444,7.843v25.053l-9.515-7.77Z" transform="translate(-0.141 -25.495)"/>
+    <path id="Path_8" data-name="Path 8" class="cls-7" d="M377.954,462.635l9.418,7.843v25.053l-9.489-7.77Z" transform="translate(-219.115 24.505)"/>
+    <path id="Path_9" data-name="Path 9" class="cls-8" d="M388.091,462.635l-10.138,6.2v23.441l10.138-6.869Z" transform="translate(118.303 115.865)"/>
+    <text id="ui" class="cls-9" transform="translate(608.468 545.5)"><tspan x="0" y="0">ui</tspan></text>
+    <text id="ui-2" data-name="ui" class="cls-10" transform="translate(620.762 551.577)"><tspan x="0" y="0">ui</tspan></text>
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-11" width="4" height="8" transform="translate(197 433)"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-11" width="4" height="8" transform="translate(280 481)"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-11" width="10.82" height="21.622" transform="translate(238 574)"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-11" width="4" height="7" transform="translate(195 437)"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-11" width="9" height="10" transform="translate(274 484)"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-11" width="2.82" height="73.622" transform="translate(213.41 498.406)"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-11" width="2.82" height="73.622" transform="translate(597.41 476.406)"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-11" width="2.82" height="49.622" transform="translate(704.41 471.406)"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-11" width="2.82" height="49.622" transform="translate(751.41 471.406)"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(185 -11)">
+      <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-11" width="2.82" height="19.622" transform="translate(289.631 488.807) rotate(90)"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-11" width="2.82" height="19.622" transform="translate(275.41 483.406)"/>
+    </g>
+  </g>
+</svg>
