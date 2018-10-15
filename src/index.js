@@ -1,12 +1,14 @@
 import Button from './components/Button'
-import ButtonGroup from './components/ButtonGroup'
+import SelectGroup from './components/SelectGroup'
 import Callout from './components/Callout'
+import Card from './components/Card'
 import {H1, H2} from './components/Heading'
 
 export {
   Button,
-  ButtonGroup,
+  SelectGroup,
   Callout,
   H1,
+  Card,
   H2
 }

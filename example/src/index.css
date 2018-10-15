@@ -26,34 +26,34 @@ h1,  h2,  h3,  h4,  h5,  h6 {
   color: rgb(191, 94, 114);
 }
 
-/* ButtonGroup Demo */
-.buttonGroup {
+/* SelectGroup Demo */
+.SelectGroup {
   padding: 5px 20px;
   line-height: 1;
   height: 44px;
 }
-.buttonGroup i {
+.SelectGroup i {
   font-size: 12px;
   font-style: normal;
   line-height: 0.8;
 }
-.fozg-ui-buttonGroup-expand:nth-child(6)  .buttonGroup {
+.fozg-ui-SelectGroup-expand:nth-child(6)  .SelectGroup {
   background-color: #5bb6ff;
   color: #fff;
   transition: 1s background-color;
 }
-.fozg-ui-buttonGroup-expand:last-of-type .buttonGroup{
+.fozg-ui-SelectGroup-expand:last-of-type .SelectGroup{
   background-color: #2196f3;
   color: #fff;
   transition: 1s background-color;
 }
-  /* .fozg-ui-buttonGroup-expand:last-of-type.fozg-ui-buttonGroup-active .buttonGroup,
-  .fozg-ui-buttonGroup-expand:nth-child(6).fozg-ui-buttonGroup-active .buttonGroup
+  /* .fozg-ui-SelectGroup-expand:last-of-type.fozg-ui-SelectGroup-active .SelectGroup,
+  .fozg-ui-SelectGroup-expand:nth-child(6).fozg-ui-SelectGroup-active .SelectGroup
   {
     background-color: transparent !important;
   } */
 
-.fozg-ui-buttonGroup-expand.fozg-ui-buttonGroup-active .buttonGroup  {
+.fozg-ui-SelectGroup-expand.fozg-ui-SelectGroup-active .SelectGroup  {
   background-color: transparent !important;
 }
 

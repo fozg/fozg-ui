@@ -20,14 +20,14 @@ npm install --save fozg-ui
 ```jsx
 import React, { Component } from 'react'
 
-import {ButtonGroup} from 'fozg-ui'
+import {SelectGroup} from 'fozg-ui'
 
 class Example extends Component {
   render () {
     return (
-      <ButtonGroup>
+      <SelectGroup>
         ...
-      </ButtonGroup>
+      </SelectGroup>
     )
   }
 }
